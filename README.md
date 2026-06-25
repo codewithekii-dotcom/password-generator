@@ -12,4 +12,5 @@ A simple password generator where users choose length and character types.
 
 ```bash
 python password_generator.py
+``` 
 
